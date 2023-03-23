@@ -7,7 +7,6 @@ Things to cover
 - add
 - commit
 - log
-- diff
 - revert
 
 What happens when you have multiple people?
